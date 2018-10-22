@@ -1,3 +1,4 @@
+
 /**
  * This is the Maze class. It has all of the methods and information needed
  * to build a specific maze and have a MazeRunner get from the start to the end.
