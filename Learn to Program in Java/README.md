@@ -1,4 +1,4 @@
-# Learn To Program In Java
+# [Learn To Program In Java](https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+2T2018/course/)
 
 **Welcome to "Learn to Program in Java".**
 
@@ -22,29 +22,6 @@ Whether you are preparing for advanced university computer science courses, an e
 * Module 2 – Control Structures
 * Module 3 – Data Flow
 * Module 4 – Capstone Project
-
-**Practice**
-As you move through the course you'll notice some concepts have a "practice" section. These are links to problems on a site called "Practice-It". Practice-it is a web app operated by the University of Washington, but it's free for anyone to use. You'll need to go to https://practiceit.cs.washington.edu/ and create an account to access the problems.
- 
-![](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/f7aa1e1b22392b7e04bf34caf02b4a21/asset-v1:Microsoft+DEV276x+2T2018+type@asset+block/0-practiceIt.PNG) 
-
-**Textbook**
-This course is designed based on a traditional university approach to learning to program. Thus it generally follows the requirements for any first level computer science course. It is not required, but if you find textbooks helpful we personally suggest "Building Java Programs" by Stuart Reges and Marty Stepp. You can find out more about it at www.buildingjavaprograms.com.
-
-**AP Exam**
-Due to the academic nature of this course it is a good companion for preparing for the College Board's [Advanced Placement Computer Science A Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a).
-
-This course only covers the first half of the AP exam, so we suggest continuing your test prep with the next courses in this series "Object Oriented Programming in Java", "Algorithms and Data Structures" also from Microsoft. 
-
-## [Introduction to Code Objects and Algorithms](https://courses.edx.org/dashboard/programs/0beb9268-6047-43b5-8be4-55dcc45be396/)
-
-These three courses is a part of Code Objects and Algorithms Program -Microsoft.
- 
-### [Algorithms and Data Structures](https://courses.edx.org/courses/course-v1:Microsoft+DEV285x+3T2018/course/)
-
-### [Learn to Program in Java](https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+2T2018/course/)
-
-### [Object Oriented Programming in Java](https://courses.edx.org/courses/course-v1:Microsoft+DEV277x+2T2018/course/)
 
 ### Module 1: Java Basics
 In our first module, you'll learn the basics of the Java programming language. We'll focus on building your comfort and familiarity with the syntax of the language while giving you the building blocks that you will use throughout the rest of the course.
@@ -87,3 +64,27 @@ Let the user solve the maze
 **Final Project - Maze Runner**
 
 For your final project you will be writing the code for "MazeRunner", a program that navigates through a given maze. The code for the Maze is already written, and provided in "Maze.java". You just need to write the code that uses Maze and decides how to move through it.
+
+**Practice**
+As you move through the course you'll notice some concepts have a "practice" section. These are links to problems on a site called "Practice-It". Practice-it is a web app operated by the University of Washington, but it's free for anyone to use. You'll need to go to https://practiceit.cs.washington.edu/ and create an account to access the problems.
+ 
+![](https://prod-edxapp.edx-cdn.org/assets/courseware/v1/f7aa1e1b22392b7e04bf34caf02b4a21/asset-v1:Microsoft+DEV276x+2T2018+type@asset+block/0-practiceIt.PNG) 
+
+**Textbook**
+This course is designed based on a traditional university approach to learning to program. Thus it generally follows the requirements for any first level computer science course. It is not required, but if you find textbooks helpful we personally suggest "Building Java Programs" by Stuart Reges and Marty Stepp. You can find out more about it at www.buildingjavaprograms.com.
+
+**AP Exam**
+Due to the academic nature of this course it is a good companion for preparing for the College Board's [Advanced Placement Computer Science A Exam](https://apcentral.collegeboard.org/courses/ap-computer-science-a?course=ap-computer-science-a).
+
+This course only covers the first half of the AP exam, so we suggest continuing your test prep with the next courses in this series "Object Oriented Programming in Java", "Algorithms and Data Structures" also from Microsoft. 
+
+## [Introduction to Code Objects and Algorithms](https://courses.edx.org/dashboard/programs/0beb9268-6047-43b5-8be4-55dcc45be396/)
+
+These three courses is a part of Code Objects and Algorithms Program -Microsoft.
+ 
+### [Algorithms and Data Structures](https://courses.edx.org/courses/course-v1:Microsoft+DEV285x+3T2018/course/)
+
+### [Learn to Program in Java](https://courses.edx.org/courses/course-v1:Microsoft+DEV276x+2T2018/course/)
+
+### [Object Oriented Programming in Java](https://courses.edx.org/courses/course-v1:Microsoft+DEV277x+2T2018/course/)
+
