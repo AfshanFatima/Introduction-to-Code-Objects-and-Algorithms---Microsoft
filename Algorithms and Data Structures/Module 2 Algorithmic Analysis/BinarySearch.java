@@ -1,3 +1,4 @@
+
 public class BinarySearch {
     static boolean binarySearch(int v, int[] lst, int low, int high) {
         if (low > high) {
